@@ -1,0 +1,25 @@
+{
+    "users":[
+        {
+            "id":1,
+            "nama" : "Robin",
+            "usia" : 19,
+            "pekerjaan" : "Freelance"
+        },
+        {
+            "id":2,
+            "nama" : "Ere",
+            "usia" : 20,
+            "pekerjaan" : "Backend"
+        },
+        {
+            "id":3,
+            "nama" : "Rosiaa",
+            "usia" : 21,
+            "pekerjaan" : "Frontend"
+
+        }
+
+
+    ]
+}
